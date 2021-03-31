@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
   html_unescape: ^1.0.1+2
-  url_launcher: ^5.0.2
+  url_launcher: ^6.0.3
 
 dev_dependencies:
   flutter_test:
